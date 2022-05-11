@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.deb76eb7.css",
+    "main.js": "/static/js/main.27028169.js",
+    "static/media/cv.pdf": "/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/static/media/me.9b0ae791a9bf5cd16149.png",
+    "static/media/me-about.jpg": "/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.2268a3161bf4139ae55a.jpg",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.e6822a45fed0ae3977fb.jpg",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.b457ec47e4fa3f83ab83.jpg",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/astro-mona.webp": "/static/media/astro-mona.6c86f6ffa852ae70eafe.webp",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/hero-glow.svg": "/static/media/hero-glow.751f37e69d1f1bc57a2f.svg",
+    "index.html": "/index.html",
+    "main.deb76eb7.css.map": "/static/css/main.deb76eb7.css.map",
+    "main.27028169.js.map": "/static/js/main.27028169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb76eb7.css",
+    "static/js/main.27028169.js"
+  ]
+}
