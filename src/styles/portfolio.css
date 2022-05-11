@@ -1,0 +1,73 @@
+.portfolio-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+}
+
+.portfolio-item{
+    background: var(--color-bg-variant);
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    box-shadow:
+    2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+    6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+    12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+    22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+    41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+    100px 100px 80px rgba(0, 0, 0, 0.07);
+}
+.portfolio-item:hover{
+    border-color: var(--color-primary-variant);
+    background: transparent;
+}
+
+.portfolio-item-img img{
+    border-radius: 1.5rem;
+    overflow: hidden;
+}
+
+.portfolio-item h3{
+    margin: 1.2rem 0 0.2rem 0;
+}
+
+.portfolio-item p{
+ font-size: 14px;
+ /* opacity: 0.5; */
+}
+
+.project-text{
+    text-align: center;
+}
+
+.project-text > h3{
+    color: var(--color-primary)
+}
+
+.portfolio-item-cta{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+/* ================== Media Query (Medium Device) =================*/
+@media screen and (max-width: 1024px) {
+    .portfolio-container{
+        grid-template-columns: 1fr 1fr;
+        gap: 1.5rem;
+    }
+}
+
+
+/* ================== Media Query (Small Device) =================*/
+
+@media screen and (max-width: 767px) {
+    .portfolio-container{
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
