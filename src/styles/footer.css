@@ -69,10 +69,10 @@ footer a{
 
 .footer-copyright{
     margin-bottom: 4rem;
-    color: var(--color-bg)
+    color: var(--color-bg);
 }
 .footer-copyright > small{
-    color: var(--color-bg)
+    color: var(--color-bg);
 }
 
 /* ================== Media Query (Small Device) =================*/

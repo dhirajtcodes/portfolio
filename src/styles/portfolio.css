@@ -33,7 +33,6 @@
 
 .portfolio-item p{
  font-size: 14px;
- /* opacity: 0.5; */
 }
 
 .project-text{
@@ -41,7 +40,7 @@
 }
 
 .project-text > h3{
-    color: var(--color-primary)
+    color: var(--color-primary);
 }
 
 .portfolio-item-cta{
