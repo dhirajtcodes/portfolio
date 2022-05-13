@@ -24,7 +24,7 @@ const footer = () => {
 
       <div className="footer-socials">
         <a href="https://www.instagram.com/dhirajcodes/" target="_blank" rel="noreferrer"><FiInstagram/></a>
-        <a href="http://facebook.com" target="_blank" rel="noreferrer"><FiTwitter/></a>
+        <a href="https://twitter.com/dhirajcodes" target="_blank" rel="noreferrer"><FiTwitter/></a>
         <a href="https://www.linkedin.com/in/dhiraj-tandulkar/" target="_blank" rel="noreferrer"><FaLinkedin/></a>
       </div>
       
