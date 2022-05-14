@@ -19,6 +19,15 @@
     user-select: none;
 }
 
+.testimonial > h4{
+    color: var(--color-primary);
+}
+
+
+.testimonial > h5{
+    font-size:12px;
+}
+
 .member-review{
     color: var(--color-light);
     font-weight: 300;

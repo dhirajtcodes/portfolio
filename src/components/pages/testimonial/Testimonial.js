@@ -14,25 +14,29 @@ const Testimonial = () => {
     {
       id: 1,
       avatar: avatar1,
-      name: 'Aditya Kale',
+      name: 'Lavesh Kumbhalkar',
+      designation:" Senior Software Developer",
       review: 'Sonic the Hedgehog is a 2006 platform game developed by Sonic Team and published by Sega. It was produced in commemoration'
     },
     {
       id: 2,
       avatar: avatar2,
       name: 'Aditya Kale',
+      designation:" Senior Software Developer",
       review: 'Sonic the Hedgehog is a 2006 platform game developed by Sonic Team and published by Sega. It was produced in commemoration'
     },
     {
       id: 3,
       avatar: avatar3,
       name: 'Aditya Kale',
+      designation:" Senior Software Developer",
       review: 'Sonic the Hedgehog is a 2006 platform game developed by Sonic Team and published by Sega. It was produced in commemoration'
     },
     {
       id: 4,
       avatar: avatar4,
       name: 'Aditya Kale',
+      designation:" Senior Software Developer",
       review: 'Sonic the Hedgehog is a 2006 platform game developed by Sonic Team and published by Sega. It was produced in commemoration'
     },
 
@@ -48,14 +52,15 @@ const Testimonial = () => {
               spaceBetween={40}
               slidesPerView={1}
               pagination={{ clickable: true }}>
-          {teamMember.map(({avatar, name, review}, index) => {
+          {teamMember.map(({avatar,designation, name, review}, index) => {
             return(
  
               <SwiperSlide key = {index} className="testimonial"> 
               <div className="member-avatar">
                 <img src={avatar} alt="team-member" />
               </div>
-              <h5>{name}</h5>
+              <h4>{name}</h4>
+              <h5>{designation}</h5>
                 <small className = "member-review">{review}</small>
            </SwiperSlide>
             )
