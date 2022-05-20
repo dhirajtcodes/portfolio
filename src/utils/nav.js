@@ -26,7 +26,7 @@ export const frontend =[
     },
     {
         name: 'Next JS',
-        level: "Intermediate"
+        level: "Experience"
     },
     {
      name: "Angular",

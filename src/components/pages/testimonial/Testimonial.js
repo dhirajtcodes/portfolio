@@ -14,9 +14,9 @@ const Testimonial = () => {
     {
       id: 1,
       avatar: avatar1,
-      name: 'Lavesh Kumbhalkar',
-      designation:" Senior Software Developer",
-      review: 'Sonic the Hedgehog is a 2006 platform game developed by Sonic Team and published by Sega. It was produced in commemoration'
+      name: "Lavesh Kumbhalkar",
+      designation: "Senior Software Developer",
+      review: "I loved his passion toward code. He is really good teammate as well as solution finder. I love his energy regarding work"
     },
     {
       id: 2,

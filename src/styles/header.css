@@ -63,6 +63,14 @@ header{
    padding: 4rem 1.5rem 1.5rem 1.5rem;
 }
 
+.my-profile > img{
+    margin-top: -2rem;
+}
+
+header{
+    height: 115vh;
+}
+
 /* ================== Media Query (Medium Device) =================*/
  @media screen and (max-width: 1024px) {
      header {

@@ -32,7 +32,7 @@ const About = () => {
                  <small>20+ Completed</small>
                </article>
              </div>
-               <p>I'm a JavaScript developer with over 2+ years of web development experience and over 20+ Web Applications developed from scratch until deployment. I loved working in a challenging environment where I can learn & apply things I know.</p>
+               <p>I'm a JavaScript developer with over 2+ years of web development experience and over 20+ Web Applications developed from scratch until deployment. I loved working in a challenging environment where I can learn & apply things.</p>
                <a href="tel:8806122305"className="btn btn-primary" onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});">Let's Talk</a>
           </div>
         </div>
