@@ -39,10 +39,6 @@ export const frontend =[
 
 export const backend =[
     {
-        name: "Solidity",
-        level: "Intermediate"
-    },
-    {
         name: "Node JS",
         level: "Intermediate"
     },
@@ -64,5 +60,9 @@ export const backend =[
         name: 'Azure',
         level: "Beginner"
     },
+    {
+        name: "Solidity",
+        level: "Intermediate"
+    }
 
 ];

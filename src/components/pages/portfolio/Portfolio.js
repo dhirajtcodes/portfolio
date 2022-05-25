@@ -27,10 +27,10 @@ const Portfolio = () => {
     {
       id: 3,
       Img: Img3,
-      para: "Hello This",
-      title: 'This is my portfolio items',
-      github: 'https://github.com/',
-      live: 'www.example.com'
+      para: "Web 3.0 Hamster Swap Landing PAGE",
+      title: 'Web3 (Hamster Swap)',
+      github: 'https://github.com/dhirajtcodes/hamsterswap',
+      live: 'https://dhirajtcodes.github.io/hamsterswap/'
     },
     {
       id: 4,
