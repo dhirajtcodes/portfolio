@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1d6676b7.css",
-    "main.js": "/portfolio/static/js/main.9b8ece18.js",
+    "main.js": "/portfolio/static/js/main.739920ca.js",
+    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.dacbda98e2bb8942fa35.jpg",
     "static/media/me.png": "/portfolio/static/media/me.6e916234ab2a0ada741b.png",
     "static/media/me-about.jpg": "/portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
     "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
@@ -10,16 +11,15 @@
     "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.b457ec47e4fa3f83ab83.jpg",
     "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/astro-mona.webp": "/portfolio/static/media/astro-mona.6c86f6ffa852ae70eafe.webp",
-    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/cv.pdf": "/portfolio/static/media/cv.b5061a7f872f41d20001.pdf",
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.d7bb5b070687b7e45368.jpg",
     "static/media/hero-glow.svg": "/portfolio/static/media/hero-glow.751f37e69d1f1bc57a2f.svg",
     "index.html": "/portfolio/index.html",
     "main.1d6676b7.css.map": "/portfolio/static/css/main.1d6676b7.css.map",
-    "main.9b8ece18.js.map": "/portfolio/static/js/main.9b8ece18.js.map"
+    "main.739920ca.js.map": "/portfolio/static/js/main.739920ca.js.map"
   },
   "entrypoints": [
     "static/css/main.1d6676b7.css",
-    "static/js/main.9b8ece18.js"
+    "static/js/main.739920ca.js"
   ]
 }
