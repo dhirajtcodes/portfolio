@@ -20,7 +20,7 @@ const ContactOptions = () => {
       <AiOutlineWhatsApp className="contact-icon"/>
       <h4>WhatsApp</h4>
       <h5>+91-8806122305</h5>
-      <a href="https://api.whatsapp.com/send?phone=+918806122305" target="_blank" rel="noreferrer">Send a message</a>
+      <a href="https://wa.me/8806122305" target="_blank" rel="noreferrer">Send a message</a>
     </article>
     </div>
   )
